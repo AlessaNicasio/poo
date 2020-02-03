@@ -9,7 +9,7 @@ bajar el archivo
 es importante bajar el SDK por que **vamos a programar**.
 
 la pagina se ve asi:
-[sadsa](./img/imgagen)
+![](./imgagen.png)
 ## Instalación y configuración de Visual Studio Code para C#.
 
 
