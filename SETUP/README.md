@@ -61,15 +61,18 @@ Paso 8: Seleccione las opciones que no están marcadas para permitir que Visual 
 ![](./img11.png)
 
 Paso 9: Una vez concluido los pasos para preparar la instalación le aparecerá un marco con todos los preparativos que se hicieron y ya puede comenzar la instalación, de click en el botón e “INSTALAR”, si hay algún cambio que desee realizar antes de instalar solo tiene que oprimir el botón de “ATRÁS”, si no quiere instalar Visual Studio Code seleccione la opción de “CANCELAR”
-Captura12
+
+![](./img12.png)
 
 Paso 10: Una vez instalada Visual Studio Code crearemos una carpeta en el escritorio del ordenador con el nombre que usted desee.
-Captura13
-
 Daremos click derecho y seleccioaremos “OPEN WITH CODE”
-Captura14
+
+![](./img13.png)
 
 Esa carpeta se abrirá con el Visual Studio Code
-Captura15
+
+![](./img14.png)
+
+Asi podemos comprobar que la aplicacion se ejecuta sin problemas.
 
 
