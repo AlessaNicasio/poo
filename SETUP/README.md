@@ -14,43 +14,43 @@ Paso 2: Entrar a la página oficial de Visual studio code
 
 https://code.visualstudio.com/
 
-![](./img01.png)
+![](./img1.png)
 
 Paso 3: Dar click en el botón que dice descargar para Windows.
 
-![](./img02.png)
+![](./img2.png)
 
 Si no tiene Windows selecciona la opción de alado que se le indica y descargue según la plataforma de su ordenador.
 
-![](./img03.png)
+![](./img3.png)
 
 Si su ordenador tiene un sistema operativo de 32 bits seleccione la opción de “Otras descargas”, se abrirá otra página en donde vendrán las opciones de descarga, elija la de su conveniencia.
 
-![](./img04.png)
+![](./img4.png)
 
 Una vez seleccionado la opción a descargar se abrirá otra página y su descarga comenzará automáticamente.
 
-![](./img05.png)
+![](./img5.png)
 
 Paso 4: Dar click derecho al archivo descargado y seleccionar donde dice “Mostrar en carpeta”.
 
-![](./img06.png)
+![](./img6.png)
 
 Ahí lo mandara a la carpeta en donde se descargó el archivo de Visual Studio Code.
 
-![](./img07.png)
+![](./img7.png)
 
 Paso 5: Seleccionamos el archivo descargado en la carpeta, damos “ENTER” y nos aparecerá el acuerdo de licencia del Visual Studio Code, leemos la información que se nos proporciona y una vez leído damos al botón donde dice “Acepto el acuerdo” y después damos a “Siguiente”.
 
-![](./img08.png)
+![](./img8.png)
 
 Paso 6: Selecciona “EXAMINAR” para buscar una carpeta donde desee instalara Visual Studio Code o seleccione “SIGUIENTE” para instalar en la carpeta que se le proporciono.
 
-![](./img09.png)
+![](./img9.png)
 
 Paso 7: Seleccione “EXAMINAR” para indicar la carpeta en donde se colocarán los accesos directos del Visual Studio Code, si no desea crear una carpeta, marque el cuadro en donde dice “No crear una carpeta en el Menú Inicio” o si quiere mantener la carpeta en donde se le indica, de click en “SIGUIENTE”.
 
-![](./img010.png)
+![](./img10.png)
 
 Paso 8: Seleccione las opciones que no están marcadas para permitir que Visual Studio Code:
 1. Cree un acceso directo en el escritorio.
