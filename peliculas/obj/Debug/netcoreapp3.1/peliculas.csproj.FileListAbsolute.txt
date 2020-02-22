@@ -1,0 +1,11 @@
+C:\Users\ITT\peliculas\obj\Debug\netcoreapp3.1\peliculas.csprojAssemblyReference.cache
+C:\Users\ITT\peliculas\obj\Debug\netcoreapp3.1\peliculas.AssemblyInfoInputs.cache
+C:\Users\ITT\peliculas\obj\Debug\netcoreapp3.1\peliculas.AssemblyInfo.cs
+C:\Users\ITT\peliculas\bin\Debug\netcoreapp3.1\peliculas.exe
+C:\Users\ITT\peliculas\bin\Debug\netcoreapp3.1\peliculas.deps.json
+C:\Users\ITT\peliculas\bin\Debug\netcoreapp3.1\peliculas.runtimeconfig.json
+C:\Users\ITT\peliculas\bin\Debug\netcoreapp3.1\peliculas.runtimeconfig.dev.json
+C:\Users\ITT\peliculas\bin\Debug\netcoreapp3.1\peliculas.dll
+C:\Users\ITT\peliculas\bin\Debug\netcoreapp3.1\peliculas.pdb
+C:\Users\ITT\peliculas\obj\Debug\netcoreapp3.1\peliculas.dll
+C:\Users\ITT\peliculas\obj\Debug\netcoreapp3.1\peliculas.pdb
